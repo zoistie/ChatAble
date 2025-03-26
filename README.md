@@ -13,7 +13,7 @@ YOU MUST DO THIS AT LEAST ONCE
 
     ```cd backend```
 
-2. Place your Tavily and OpenAI API keys in the `.env` file. Tavily is free to use, aall you have to do is make an account.
+2. Place your Tavily and OpenAI API keys in the `.env` file. Tavily is free to use, all you have to do is make an account.
     ```
     FLASK_APP=app.py
     FLASK_ENV=development
